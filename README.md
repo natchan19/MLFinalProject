@@ -1,3 +1,3 @@
 # MLFinalProject
 
-Names: Natalie Chandler, Angel Lai, Ashley Qin, Rashi Adhikari
+Names: Natalie Chandler, Chloe Wang, Angel Lai, Ashley Qin, Rashi Adhikari
