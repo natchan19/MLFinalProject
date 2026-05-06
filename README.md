@@ -1,3 +1,3 @@
 # MLFinalProject
 
-Names: Natalie Chandler, Chloe Wang, Angel Lai, Ashley Qin, Rashi Adhikari
+Names: Natalie Chandler (Data Analyst), Chloe Wang (Data Scientist), Angel Lai (Pricing Analyst), Ashley Qin (Presenation), Rashi Adhikari (Presentation)
